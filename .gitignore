@@ -1,0 +1,11 @@
+.vs/
+TicTacs/obj/
+TicTacs/bin/
+CoreThread/obj/
+CoreThread/bin/
+GameLogic/obj/
+GameLogic/bin/
+NeuralNetwork/obj/
+NeuralNetwork/bin/
+Starter/obj/
+Starter/bin/
